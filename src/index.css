@@ -1,0 +1,17 @@
+:root {
+  font-family: Inter, Arial, sans-serif;
+  color: #17201c;
+  background: #f6f8f7;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* { box-sizing: border-box; }
+
+html, body, #root {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+body { margin: 0; }
