@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/testeapi/:path*",
-      "destination": "http://jsonplaceholder.typicode.com/:path*"
+      "destination": "http://136.248.106.15.nip.io:8000/:path*"
     }
   ]
 }
