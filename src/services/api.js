@@ -1,4 +1,4 @@
-const API_URL = "http://136.248.106.15:8000"
+const API_URL = "/api"
 
 function getToken() {
   return localStorage.getItem("token")
